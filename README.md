@@ -1,30 +1,37 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=HyeonGu%20Lee&fontSize=30)
 
 
-<h3> 🔥 Github Stats 🔥
-<br/><br/>
+## 🔥 Github Stats 🔥 
 
 ![wancern's github stats](https://github-readme-stats.vercel.app/api?username=wancern&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wancern&show_icons=true&hide_border=true&title_color=00EEFF&text_color=FFFFFF&bg_color=000000&icon_color=004386&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br/><br/>
 
-<h3> 🖥️ BaekJoon Stats 🖥️
-<br/><br/>
-	
+## 🖥️ BaekJoon Stats 🖥️ 
 	
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wancern)](https://solved.ac/wancern/)
 
 <br/>
 
-<h3> 🛠 Tech Stacks 🛠
-<br/><br/>
-<img src="https://img.shields.io/badge/Java-7952B3?style=flat-square"/> <img src="https://img.shields.io/badge/Flutter-006600?style=flat-square&logo=Flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-F46D01?style=flat-square&logo=Dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-<br/><br/>
+## 🛠 Tech Stacks 🛠
+	
+- ### Back-End
+	![JAVA](https://img.shields.io/badge/Java-7952B3?style=for-the-badge)
+	![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
+	![JPA](https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=Java&logoColor=white)
+	![Mysql](https://img.shields.io/badge/Mysql-E6B91E.svg?style=for-the-badge&logo=MySql&logoColor=white)
+	![MaridDB](https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white)
 
-<h3> 📖 Certification 📖
-<br/><br/>
+- ### Front-End
+	![Flutter](https://img.shields.io/badge/Flutter-006600?style=for-the-badge&logo=Flutter&logoColor=white)
+  	![Dart](https://img.shields.io/badge/Dart-F46D01?style=for-the-badge&logo=Dart&logoColor=white)
+  	![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
+  	![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
+	![React](https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white)
+
+<br/>
+
+## 📖 Certification 📖
 
 - 정보처리기사
 - SQL 개발자 (SQLD)
