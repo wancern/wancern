@@ -10,13 +10,13 @@
 <br/>
 
 ## 📝 Projects
-[![image](https://github.com/wancern/wancern/assets/57997390/c972fc6c-f9b2-4b73-a01b-b136254d61cb)](https://github.com/wancern/Pokerface)
+[![image](https://github.com/wancern/wancern/blob/main/assets/pokerface.png)](https://github.com/wancern/Pokerface)
 
 - ### [[PokerFace]](https://github.com/wancern/Pokerface) 1:1 화상 온라인 인디언포커 서비스
 
 <br/>
 
-[![image](https://github.com/wancern/wancern/assets/57997390/7c863138-d6d1-4d5f-a394-f1cf61b8bb15)](https://github.com/wancern/Bizscanner)
+[![image](https://github.com/wancern/wancern/blob/main/assets/bizscanner.png)](https://github.com/wancern/Bizscanner)
 
 - ### [[BizScanner]](https://github.com/wancern/Bizscanner) 창업 관련 분석 및 추천 서비스
 
