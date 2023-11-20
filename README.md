@@ -22,6 +22,12 @@
 
 <br/>
 
+[![image](https://github.com/wancern/wancern/blob/main/assets/Cogit.png)](https://github.com/wancern/Cogit)
+
+- ### [[Cogit]](https://github.com/wancern/Cogit) 알고리즘 스터디 관리 서비스
+
+<br/>
+
 ## 📖 Certification
 
 - 정보처리기사
